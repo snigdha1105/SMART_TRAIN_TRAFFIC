@@ -1,4 +1,4 @@
-
+import API_URL from '../config';
 import React, { useState, useEffect } from 'react';
 
 function Dashboard() {
